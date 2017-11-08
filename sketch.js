@@ -15,7 +15,7 @@ var volhistory = [];
 // }
 
 function preload() {
-  song = loadSound('assets/fearless.mp3');
+  song = loadSound('assets/Fearless.mp3');
   img = loadImage('./assets/magritte.png');
   img2 = loadImage('./assets/moon.png');
   img3 = loadImage('./assets/hat.png');
